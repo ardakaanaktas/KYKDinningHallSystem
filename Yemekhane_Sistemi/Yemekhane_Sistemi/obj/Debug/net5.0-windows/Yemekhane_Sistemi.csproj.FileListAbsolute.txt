@@ -1,0 +1,66 @@
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\Yemekhane_Sistemi.exe
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\Yemekhane_Sistemi.deps.json
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\Yemekhane_Sistemi.runtimeconfig.json
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\Yemekhane_Sistemi.runtimeconfig.dev.json
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\Yemekhane_Sistemi.dll
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\Yemekhane_Sistemi.pdb
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.csproj.AssemblyReference.cache
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.Form1.resources
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.csproj.GenerateResource.cache
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.AssemblyInfoInputs.cache
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.AssemblyInfo.cs
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.csproj.CoreCompileInputs.cache
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.dll
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\refint\Yemekhane_Sistemi.dll
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.pdb
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.genruntimeconfig.cache
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\ref\Yemekhane_Sistemi.dll
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.Properties.Resources.resources
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.Control1.resources
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.Control2.resources
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.Control3.resources
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.Control4.resources
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.csproj.CopyComplete
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.AddStudent.resources
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.AdminPanel.resources
+D:\Repo\Sevilay Bitirme\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.MenuPanel1.resources
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\Yemekhane_Sistemi.exe
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\Yemekhane_Sistemi.deps.json
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\Yemekhane_Sistemi.runtimeconfig.json
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\Yemekhane_Sistemi.runtimeconfig.dev.json
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\Yemekhane_Sistemi.dll
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\Yemekhane_Sistemi.pdb
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.csproj.AssemblyReference.cache
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.AddStudent.resources
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.AdminPanel.resources
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.Control1.resources
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.Control2.resources
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.Control3.resources
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.Control4.resources
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.Form1.resources
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.MenuPanel1.resources
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.Properties.Resources.resources
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.csproj.GenerateResource.cache
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.AssemblyInfoInputs.cache
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.AssemblyInfo.cs
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.csproj.CopyComplete
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.dll
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\refint\Yemekhane_Sistemi.dll
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.pdb
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\Yemekhane_Sistemi.genruntimeconfig.cache
+C:\Users\arda_\Desktop\Sevilay Yıldırım Bitirme Projesi.rar (0)\Sevilay Yıldırım Bitirme Projesi\Yemekhane_Sistemi\Yemekhane_Sistemi\obj\Debug\net5.0-windows\ref\Yemekhane_Sistemi.dll
